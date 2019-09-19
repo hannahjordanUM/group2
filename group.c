@@ -9,6 +9,8 @@ void TimGarner () {
 }
 
 void BeauGoldberg () {
+ printf("Beau Goldberg\n");
+
     
 }
 
