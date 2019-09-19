@@ -12,8 +12,8 @@ void BeauGoldberg () {
     
 }
 
-void HannahJordan () {
-    
+void HannahJordan (void) {
+    printf("-- Hannah Jordan --");
 }
 
 int main() {
