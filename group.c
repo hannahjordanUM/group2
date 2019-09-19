@@ -9,8 +9,10 @@ void TimGarner () {
 }
 
 void BeauGoldberg () {
- printf("Beau Goldberg\n");
-
+ printf("Name: Beau Goldberg\n");
+ printf("Year: Junior");
+ printf("Major: Computational Physics");
+ printf("Hobbies: Sports, Gaming");
     
 }
 
