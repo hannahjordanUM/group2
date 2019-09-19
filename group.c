@@ -14,6 +14,7 @@ void BeauGoldberg () {
  printf("Major: Computational Physics\n");
  printf("Hobbies: Sports, Gaming\n");
  printf("Hometown: Polson, MT\n");
+ printf("Other Stuff: Needed another commit\n");
     
 }
 
