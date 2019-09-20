@@ -16,6 +16,8 @@ void HannahJordan () {
     printf("Hannah Jordan\n");
     printf("Year: First Year (of three) Masters\n");
     printf("Major: Computer Science Masters\n");
+    printf("Hobbies: Hiking, Reading, Sewing, and some Gaming\n");
+
 }
 
 int main() {
