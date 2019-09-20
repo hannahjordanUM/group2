@@ -23,7 +23,7 @@ void HannahJordan () {
 
 int main() {
     printf("This is group 2\n");
-    printf("Members are: Randy, Tim, Beau, and Hannah\n");
+    printf("Members are: Randy, Tim, Beau, and Hannah\n\n");
     
     RandyFlores();
     
