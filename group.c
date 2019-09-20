@@ -8,6 +8,7 @@ void TimGarner () {
    printf("Name: Tim Garner\n");
    printf("Year in school: Sophmore\n");
    printf("Major: Computer Science\n");
+   printf("Hobbies: N/A")
 
     
 }
