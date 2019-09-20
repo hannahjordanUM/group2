@@ -22,11 +22,16 @@ void HannahJordan () {
 }
 
 int main() {
-    printf("This is group 2");
-    printf("Members are: Randy, Tim, Beau, and Hannah");
+    printf("This is group 2\n");
+    printf("Members are: Randy, Tim, Beau, and Hannah\n");
     
+    RandyFlores();
     
+    TimGarner();
     
+    BeauGoldberg();
+    
+    HannahJordan();
     
     return 0;
 }
