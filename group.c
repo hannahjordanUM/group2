@@ -5,7 +5,8 @@ void RandyFlores () {
 }
 
 void TimGarner () {
-   printf("Tim Garner\n");
+   printf("Name: Tim Garner\n");
+   printf("Year in school: Sophmore\n");
     
 }
 
