@@ -18,7 +18,7 @@ void HannahJordan () {
     printf("Major: Computer Science Masters\n");
     printf("Hobbies: Hiking, Reading, Sewing, and some Gaming\n");
     printf("I grew up in Corvallis, MT\n");
-
+    printf("I have lived in Missoula for the past 6 years and love it!\n");
 }
 
 int main() {
