@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void RandyFlores () {
-    
+    printf("Name: Randy Flores\n");
 }
 
 void TimGarner () {
