@@ -2,6 +2,8 @@
 
 void RandyFlores () {
     printf("Name: Randy Flores\n");
+    printf("Year: Junior\n");
+    printf("Major: Computer science\n");
 }
 
 void TimGarner () {
