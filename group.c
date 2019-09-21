@@ -4,6 +4,8 @@ void RandyFlores () {
     printf("Name: Randy Flores\n");
     printf("Year: Junior\n");
     printf("Major: Computer science\n");
+    printf("Hobbies: Music, books, games, other things too\n");
+    printf("Hometown: Santa Clara, CA / Missoula\n");
 }
 
 void TimGarner () {
