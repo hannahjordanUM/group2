@@ -6,7 +6,7 @@ void RandyFlores () {
     printf("Major: Computer science\n");
     printf("Hobbies: Music, books, games, other things too\n");
     printf("Hometown: Santa Clara, CA / Missoula\n");
-    printf("Something else: I don't know\n");
+    printf("Something else: I got into CS because it's fun to make stuff with computers\n");
 }
 
 void TimGarner () {
