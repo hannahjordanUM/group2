@@ -1,7 +1,12 @@
 #include <stdio.h>
 
 void RandyFlores () {
-    
+    printf("Name: Randy Flores\n");
+    printf("Year: Junior\n");
+    printf("Major: Computer science\n");
+    printf("Hobbies: Music, books, games, other things too\n");
+    printf("Hometown: Santa Clara, CA / Missoula\n");
+    printf("Something else: I got into CS because it's fun to make stuff with computers\n");
 }
 
 void TimGarner () {
