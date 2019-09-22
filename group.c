@@ -15,8 +15,6 @@ void TimGarner () {
    printf("Major: Computer Science\n");
    printf("Hobbies: N/A\n");
    printf("Where I grew up: Missoula, MT\n");
-
-    
 }
 
 void BeauGoldberg () {
@@ -25,8 +23,7 @@ void BeauGoldberg () {
  printf("Major: Computational Physics\n");
  printf("Hobbies: Sports, Gaming\n");
  printf("Hometown: Polson, MT\n");
- printf("Other Stuff: Needed another commit\n");
-    
+ printf("Other Stuff: Needed another commit\n"); 
 }
 
 void HannahJordan () {
